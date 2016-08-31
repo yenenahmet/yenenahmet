@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "60527631763",
+    "firebase_url": "https://yenen-30fb5.firebaseio.com",
+    "project_id": "yenen-30fb5",
+    "storage_bucket": "yenen-30fb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60527631763:android:a0d05ea2f4afc1c6",
+        "android_client_info": {
+          "package_name": "com.mobilhanem.retrofitexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60527631763-e50bmuc2qatjvhjbcvpa4gf8odjjecfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobilhanem.retrofitexample",
+            "certificate_hash": "A215F5AFB73FBE5AD0632E9308C6382243ADF5B8"
+          }
+        },
+        {
+          "client_id": "60527631763-bkbbm8loo36or4g4l3qdkf6fcu7p6fnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ju7pL383nhObAvw9tIn7FDGmaopX86g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60527631763-bkbbm8loo36or4g4l3qdkf6fcu7p6fnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
